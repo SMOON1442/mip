@@ -1,0 +1,35 @@
+Exercice 1: 
+Ecrire un programme python qui demande à l’utilisateur de saisir un tableau de taille n et d’afficher
+le plus grand et le plus petit élément du tableau. 
+
+Exercice 2: 
+Ecrire un programme python qui demande à l’utilisateur de saisir un tableau de taille n lue au
+clavier et d’afficher le nombre des éléments impaires. 
+
+Exercice 3: 
+Ecrire un programme python qui demande à l’utilisateur de saisir un tableau de taille n lue au
+clavier et de calculer le nombre d'occurrences d'une valeur saisie par l’utilisateur. 
+
+Exercice 4: 
+Ecrire un programme python qui demande à l’utilisateur de saisir un tableau de taille n lue au
+clavier et de ranger ses éléments dans l'ordre inverse sans utiliser un autre tableau. 
+
+Exercice 5: 
+Ecrire un programme python qui demande la taille du tableau T, les éléments du tableau T, la valeur
+recherchée x. Le programme donne toutes les positions de x dans ce tableau T, si x est dans le tableau T et
+donne la valeur -1 si x n’est pas dans le tableau T. Afficher ces positions ou informer l’utilisateur que le tableau
+est vide
+
+Exercice 6: 
+Ecrire un programme qui demande la saisie d’un tableau et sa taille et effectue dans l’ordre
+croissant le tri par sélection. Principe du tri par sélection.Parcourir le tableau et rechercher l’indice du plus petit élément,
+puis on le permute avec l’élément qui se trouvait à la position 0. Répéter pour la position 1, puis 2 jusqu’à la fin du tableau 
+(en recherchant à chaque fois le plus petit élément autre que celui déjà trouvé)
+
+Exercice 7: 
+Ecrire un programme qui demande la saisie d’un tableau et sa taille et effectue dans l’ordre
+croissant le tri à bulle. Principe tri à bulle: Parcourir le tableau et comparer chaque deux éléments successifs. Lorsque deux éléments
+successifs ne sont pas dans l'ordre croissant, ils sont échangés. On recommence alors l'opération depuis le début. 
+Notez qu’après chaque parcours du tableau, le dernier élément est forcement dans le bon ordre, on ne le
+considèrera donc pas dans le parcours suivant. Le tableau est trié lorsque aucun échange n’a été effectué pendant
+un parcours.
