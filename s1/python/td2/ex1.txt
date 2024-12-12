@@ -1,0 +1,16 @@
+""" Programme 1 """
+Boucle 1 avec i= 1
+Boucle 2 avec j= 1
+Boucle 2 avec j= 2
+Boucle 2 avec j= 3
+Boucle 1 avec i= 2
+Boucle 2 avec j= 1
+Boucle 2 avec j= 2
+Boucle 2 avec j= 3
+
+""" Programme 2 """
+Boucle 1 avec i= 1
+Boucle 1 avec i= 2
+Boucle 2 avec j= 1
+Boucle 2 avec j= 2
+Boucle 2 avec j= 3

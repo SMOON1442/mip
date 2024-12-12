@@ -1,0 +1,5 @@
+a=int(input("Entrez la valeur de coefficient a : "))
+b=int(input("Entrez la valeur de coefficient b : "))
+c=int(input("Entrez la valeur de coefficient c : "))
+delta=(b**2)-(4*a*c)
+print(f"le discriminant de votre equation {a}x^2 + {b}x + {c} est égale à {delta}")
